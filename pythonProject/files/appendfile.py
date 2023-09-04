@@ -1,0 +1,6 @@
+f=open("sample.txt","a+")
+print(f.tell())
+f.write("Django")
+f.seek(0)
+print(f.read())
+f.close()

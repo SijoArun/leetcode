@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="string" />
+    <orderEntry type="module" module-name="functions" />
+    <orderEntry type="module" module-name="listcomprehension" />
+    <orderEntry type="module" module-name="oopsconcept" />
+    <orderEntry type="module" module-name="encapsulation" />
+    <orderEntry type="module" module-name="inheritence" />
+    <orderEntry type="module" module-name="polymorphism" />
+    <orderEntry type="module" module-name="exception" />
+    <orderEntry type="module" module-name="files" />
+    <orderEntry type="module" module-name="regularexpression" />
+    <orderEntry type="module" module-name="dateandtime" />
+    <orderEntry type="module" module-name="bits" />
+    <orderEntry type="module" module-name="Threading" />
+    <orderEntry type="module" module-name="urllib" />
+    <orderEntry type="module" module-name="pymongo" />
+    <orderEntry type="module" module-name="matchcase" />
+    <orderEntry type="module" module-name="numpy" />
+  </component>
+</module>

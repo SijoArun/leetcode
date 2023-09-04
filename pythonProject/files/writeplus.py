@@ -1,0 +1,7 @@
+f=open("sample.txt","w+")
+f.write("You are awesome\n")
+f.writelines(['python\n','java\n'])
+print("cursor is at",f.tell())
+f.seek(0)
+print(f.read())
+f.close()

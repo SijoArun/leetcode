@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/Threading/.idea/Threading.iml" filepath="$PROJECT_DIR$/../pythonProject/Threading/.idea/Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/bits/.idea/bits.iml" filepath="$PROJECT_DIR$/../pythonProject/bits/.idea/bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/dateandtime/.idea/dateandtime.iml" filepath="$PROJECT_DIR$/../pythonProject/dateandtime/.idea/dateandtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/encapsulation/.idea/encapsulation.iml" filepath="$PROJECT_DIR$/../pythonProject/encapsulation/.idea/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/exception/.idea/exception.iml" filepath="$PROJECT_DIR$/../pythonProject/exception/.idea/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/files/.idea/files.iml" filepath="$PROJECT_DIR$/../pythonProject/files/.idea/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/functions/.idea/functions.iml" filepath="$PROJECT_DIR$/../pythonProject/functions/.idea/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/inheritence/.idea/inheritence.iml" filepath="$PROJECT_DIR$/../pythonProject/inheritence/.idea/inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/listcomprehension/.idea/listcomprehension.iml" filepath="$PROJECT_DIR$/../pythonProject/listcomprehension/.idea/listcomprehension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/matchcase/.idea/matchcase.iml" filepath="$PROJECT_DIR$/../pythonProject/matchcase/.idea/matchcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/numpytest/.idea/numpy.iml" filepath="$PROJECT_DIR$/../pythonProject/numpytest/.idea/numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/oopsconcept/.idea/oopsconcept.iml" filepath="$PROJECT_DIR$/../pythonProject/oopsconcept/.idea/oopsconcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/operator.iml" filepath="$PROJECT_DIR$/.idea/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/polymorphism/.idea/polymorphism.iml" filepath="$PROJECT_DIR$/../pythonProject/polymorphism/.idea/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/mongodbpym/.idea/pymongo.iml" filepath="$PROJECT_DIR$/../pythonProject/mongodbpym/.idea/pymongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/regularexpression/.idea/regularexpression.iml" filepath="$PROJECT_DIR$/../pythonProject/regularexpression/.idea/regularexpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/string/.idea/string.iml" filepath="$PROJECT_DIR$/../pythonProject/string/.idea/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/urllib/.idea/urllib.iml" filepath="$PROJECT_DIR$/../pythonProject/urllib/.idea/urllib.iml" />
+    </modules>
+  </component>
+</project>

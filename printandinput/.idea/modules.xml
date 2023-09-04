@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/basicprograms/.idea/basicprograms.iml" filepath="$PROJECT_DIR$/../pythonProject/basicprograms/.idea/basicprograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/bitsassignment/.idea/bitsassignment.iml" filepath="$PROJECT_DIR$/../pythonProject/bitsassignment/.idea/bitsassignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/commandlineargument/.idea/commandlineargument.iml" filepath="$PROJECT_DIR$/../pythonProject/commandlineargument/.idea/commandlineargument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/controlstatements/.idea/controlstatements.iml" filepath="$PROJECT_DIR$/../pythonProject/controlstatements/.idea/controlstatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../operator/.idea/operator.iml" filepath="$PROJECT_DIR$/../operator/.idea/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/printandinput.iml" filepath="$PROJECT_DIR$/.idea/printandinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pychramdemo/.idea/pychramdemo.iml" filepath="$PROJECT_DIR$/../pychramdemo/.idea/pychramdemo.iml" />
+    </modules>
+  </component>
+</project>

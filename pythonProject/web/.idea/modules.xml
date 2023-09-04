@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Mobile/.idea/Mobile.iml" filepath="$PROJECT_DIR$/../Mobile/.idea/Mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Parallelproject/.idea/Parallelproject.iml" filepath="$PROJECT_DIR$/../Parallelproject/.idea/Parallelproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multifile/.idea/multifile.iml" filepath="$PROJECT_DIR$/../multifile/.idea/multifile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../operator/.idea/operator.iml" filepath="$PROJECT_DIR$/../../operator/.idea/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pom/.idea/pom.iml" filepath="$PROJECT_DIR$/../pom/.idea/pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject2/.idea/pytestassesstment.iml" filepath="$PROJECT_DIR$/../pythonProject2/.idea/pytestassesstment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testsutesui/.idea/testsutesui.iml" filepath="$PROJECT_DIR$/../testsutesui/.idea/testsutesui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web.iml" filepath="$PROJECT_DIR$/.idea/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web1/.idea/web1.iml" filepath="$PROJECT_DIR$/../web1/.idea/web1.iml" />
+    </modules>
+  </component>
+</project>
